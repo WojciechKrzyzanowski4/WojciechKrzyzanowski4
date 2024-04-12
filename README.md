@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/wojtek krzyżanowski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wojtek krzyżanowski" height="30" width="40" /></a>
+<a href="https://fb.com/wojtek.krzyzanowski.1610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wojtek krzyżanowski" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/user2701zn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user2701zn" height="30" width="40" /></a>
 </p>
 
