@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wojciech Krzyżanowski</h1>
 <h3 align="left">Software developer</h3>
 
-<p align="left">I am a third year Computer science student at Silesian University of Technology. I have experience with C++, Java, Assembly language based on multiple projects I have completed</p>
+<p align="left">I am a third year Computer science student at Silesian University of Technology. I have experience with C++, Java, Assembly language based on multiple projects I have completed.</p>
 
 - 🔭 I’m currently working on **mymemories**
 
